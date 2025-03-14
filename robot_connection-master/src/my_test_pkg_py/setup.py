@@ -20,8 +20,11 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-	'master_order = my_test_pkg_py.master_order:main',
-    'node1 = my_test_pkg_py.node1:main',
+    'control = my_test_pkg_py.control:main',
+    'receive = my_test_pkg_py.receive_angle:main',
+
+	#'master_order = my_test_pkg_py.master_order:main',
+    #'node1 = my_test_pkg_py.node1:main',
     # 'node2 = my_test_pkg_py.node2:main',
     
 ]
