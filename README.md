@@ -9,7 +9,7 @@ robot_connection-master/src/my_test_pkg_py/receive_angle.py
 
 움직이는 코드
 ```
-cd robot_connection 
+cd robot_connection-master
 colcon build --symlink-install --packages-select my_test_pkg_py
 source install/setup.bash
 
