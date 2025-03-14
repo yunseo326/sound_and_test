@@ -1,0 +1,19 @@
+[0.318s] Invoking command in '/home/yunseo/ros2_ws/build/my_test_pkg_py': PYTHONPATH=/home/yunseo/ros2_ws/build/my_test_pkg_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yunseo/ros2_ws/install/my_test_pkg_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yunseo/ros2_ws/build/my_test_pkg_py/build --no-deps symlink_data
+[0.429s] running develop
+[0.487s] running egg_info
+[0.487s] writing my_test_pkg_py.egg-info/PKG-INFO
+[0.487s] writing dependency_links to my_test_pkg_py.egg-info/dependency_links.txt
+[0.487s] writing entry points to my_test_pkg_py.egg-info/entry_points.txt
+[0.487s] writing requirements to my_test_pkg_py.egg-info/requires.txt
+[0.487s] writing top-level names to my_test_pkg_py.egg-info/top_level.txt
+[0.504s] reading manifest file 'my_test_pkg_py.egg-info/SOURCES.txt'
+[0.504s] writing manifest file 'my_test_pkg_py.egg-info/SOURCES.txt'
+[0.522s] running build_ext
+[0.522s] Creating /home/yunseo/ros2_ws/install/my_test_pkg_py/lib/python3.8/site-packages/my-test-pkg-py.egg-link (link to .)
+[0.522s] Installing master_order script to /home/yunseo/ros2_ws/install/my_test_pkg_py/lib/my_test_pkg_py
+[0.522s] Installing node1 script to /home/yunseo/ros2_ws/install/my_test_pkg_py/lib/my_test_pkg_py
+[0.522s] Installing node2 script to /home/yunseo/ros2_ws/install/my_test_pkg_py/lib/my_test_pkg_py
+[0.522s] 
+[0.522s] Installed /home/yunseo/ros2_ws/build/my_test_pkg_py
+[0.523s] running symlink_data
+[0.537s] Invoked command in '/home/yunseo/ros2_ws/build/my_test_pkg_py' returned '0': PYTHONPATH=/home/yunseo/ros2_ws/build/my_test_pkg_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yunseo/ros2_ws/install/my_test_pkg_py/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/yunseo/ros2_ws/build/my_test_pkg_py/build --no-deps symlink_data

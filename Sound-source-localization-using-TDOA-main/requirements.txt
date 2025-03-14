@@ -1,0 +1,21 @@
+1. install cmake
+sudo apt upgrade 
+sudo apt update
+sudo apt install cmake 
+
+2. matplot
+https://github.com/lava/matplotlib-cpp
+change CMakeLists.txt
+ 
+3. pyaudio
+sudo apt update
+sudo apt install -y build-essential libasound2-dev libjack-jackd2-dev portaudio19-dev
+
+4. matplotlib
+sudo apt install python3-matplotlib
+
+5. gcc_phat
+sudo apt-get install libfftw3-dev
+
+6. python3-dev
+sudo apt-get install python3-dev
